@@ -1,2 +1,4 @@
 User-agent: Googlebot
 Disallow: /rl/
+
+sitemap: http://www.coachibs.com/sitemap.xml
