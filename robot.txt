@@ -1,2 +1,2 @@
 User-agent: Googleboy
-Disallow: /rl/
+Disallow:
