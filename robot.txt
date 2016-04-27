@@ -1,2 +1,2 @@
-User-agent: Googleboy
-Disallow:
+User-agent: Googlebot
+Disallow: /rl/
